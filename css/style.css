@@ -1049,3 +1049,10 @@ transition: all 0.5s ease;
         animation-duration: 8s;
     }
 }
+
+@media (max-width: 390px) {
+    .gallery {
+        position: relative;
+		top: 150px;
+    }
+}
